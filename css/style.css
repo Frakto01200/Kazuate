@@ -1,0 +1,13 @@
+/* CSSスタイルの指定 */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    margin: 5px;
+}
